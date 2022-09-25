@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @its-jasmine
 - 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning to reach an intermediate level of Python coding and begin learning Java
+- 🌱 I’ve worked with Python, C, and Java.
 
 <!---
 its-jasmine/its-jasmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
