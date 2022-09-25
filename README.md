@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @its-jasmine
-- 👀 I’m interested in becoming a software engineer
+- 👀 Hope to become a software engineer!
 - 🌱 I’ve worked with Python, C, and Java.
 
 <!---
