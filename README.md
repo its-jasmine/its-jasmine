@@ -5,6 +5,9 @@
 - Here some links to repositories that I contributed to but do not own:
   - Secure & Transparent Voting System (Capstone Project): https://github.com/ArthurAtangana/capstone-voting-system
   - Elevator Scheduling Simulator: https://github.com/Rebecca-Elliott/SYSC-3303-Team-3
+ 
+    
+- What am I currently working on? Divido, a group expense tracker! https://github.com/its-jasmine/group-expense-tracker
 
 <!---
 its-jasmine/its-jasmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
