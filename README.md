@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @its-jasmine
 - 👀 Hope to become a software engineer!
 - 🌱 I’ve worked with Java, Python, and C.
+- 
 
 - Here some links to repositories that I contributed to but do not own:
   - Secure & Transparent Voting System (Capstone Project): https://github.com/ArthurAtangana/capstone-voting-system
@@ -10,7 +11,8 @@
  
     
 - What am I currently working on?
-  - Divido, a group expense tracker! https://github.com/its-jasmine/group-expense-tracker
+  - Learning C++ using learncpp.com!
+  - Working on my personal project: Divido, a group expense tracker! https://github.com/its-jasmine/group-expense-tracker
     - Java, Spring Boot
 
 <!---
