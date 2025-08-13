@@ -13,6 +13,7 @@
   - Learning C++ using learncpp.com!
   - Working on my personal project: Divido, a group expense tracker! https://github.com/its-jasmine/group-expense-tracker
     - Java, Spring Boot
+  - Learning React on Scrimba!
 
 <!---
 its-jasmine/its-jasmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
