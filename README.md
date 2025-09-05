@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @its-jasmine
-- 👀 Hope to become a software engineer!
+- 👀 Aspiring software engineer!
 - 🌱 I’ve worked with Java, Python, and C.
 
 - Here some links to repositories that I contributed to but do not own:
